@@ -1,37 +1,20 @@
-@import url(http://fonts.googleapis.com/css?family=Roboto:400,700,300);
-
-.clearfix {
-  *zoom: 1;
-}
-
-.clearfix:before,
-.clearfix:after {
-  display: table;
-  content: "";
-  line-height: 0;
-}
-.clearfix:after {
-  clear: both;
-}
-
-.navbar-default{
-	background-color: #3B4657;
-	border-color: transparent;
-}
-.navbar-default .navbar-nav>li>a, .navbar-default .navbar-nav>li>a:focus{
-	color: white;
-}
 .red-social{
 	background-color: #45D469;
 	padding: 2% 2% 2% 2%;
 	color: white;
 }
 .our-latest{
-	background-color: #F9F2E9;
+	background-color:#F9F2E9;
 	padding: 4% 4% 4% 4%;
 }
+.pagination>li>a{
+background-color:#E94E37;
+}
+.pagination span{
+	color: white;
+}
 .our-clients{
-	background-color: #E94E37;
+	background-color:#E94E37;
 	padding: 2% 2% 2% 2%;
 	color: white;
 }
@@ -45,4 +28,7 @@
 }
 .our-clients .col-md-6{
 	border-left: 2px solid white;
+}
+.media-object{
+	margin-left: 0% !important;
 }
