@@ -13,3 +13,36 @@
 .clearfix:after {
   clear: both;
 }
+
+.navbar-default{
+	background-color: #3B4657;
+	border-color: transparent;
+}
+.navbar-default .navbar-nav>li>a, .navbar-default .navbar-nav>li>a:focus{
+	color: white;
+}
+.red-social{
+	background-color: #45D469;
+	padding: 2% 2% 2% 2%;
+	color: white;
+}
+.our-latest{
+	background-color: #F9F2E9;
+	padding: 4% 4% 4% 4%;
+}
+.our-clients{
+	background-color: #E94E37;
+	padding: 2% 2% 2% 2%;
+	color: white;
+}
+.our-clients h2{
+	text-align: center;
+	padding: 1%;
+}
+.our-clients p{
+	text-align: center;
+	padding: 1%;
+}
+.our-clients .col-md-6{
+	border-left: 2px solid white;
+}
