@@ -26,50 +26,42 @@ a:hover{
   /* alineacion horizontal */
   justify-content: center; }
 
-  .content{
+    .content{
   	background-color: #E6E6E6;
   	padding: 3% 0%;
   	color: #3b4657;
   }
 
-  .content .box-white{
+
+  .progress{
   	background-color: #fff;
   }
 
-  img{
-  	width: 100%;
-  }
-
-  .article{
-  	padding: 3%;
-  }
-
-  h6{
+  .box{
   	display: inline-block;
-  	color: #888;
-  }
-
-  .pl-7{
-	padding-left: 7px;
-  }
-
-  .mt-2{
-  	margin-top: 2%;
-  }
-
-  .mt-5{
-  	margin-top: 5%;
-  }
-
-  ul{
-  	padding: 0%;
-  }
-
-  li{
-  	list-style-type: none;
-  }
-
-  .pagination>li>a:hover ,.pagination>li>a:active{
-  	background-color: #3B4657;
+  	height: 30px;
+  	width: 30px;
+  	border-radius: 50%;
+  	line-height: 30px;
   	color: #fff;
+  }
+
+  .fb{
+  	background-color: #5A85D6;
+  }
+
+  .gp{
+	background-color: red;
+  }
+
+  .tw{
+	background-color: #5BC0DD;
+  }
+
+  .in{
+  	background-color: #25A7D8;
+  }
+
+    h6{
+  	 	color: #888;
   }
