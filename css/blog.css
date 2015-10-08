@@ -5,12 +5,16 @@
 	color: #fff;
 }
 
-a{
-	text-decoration: none;
+.blog a{
 	color: #fff;
 }
 
+a{
+	color: #3b4657;
+	text-decoration: none;
+}
 a:hover{
+	color: #000;
 	text-decoration: none;
 }
 
@@ -30,10 +34,9 @@ a:hover{
 
   .content .box-white{
   	background-color: #fff;
-  	margin: 2% 0%;
   }
 
-  .content .box-white img{
+  img{
   	width: 100%;
   }
 
@@ -48,4 +51,25 @@ a:hover{
 
   .pl-7{
 	padding-left: 7px;
+  }
+
+  .mt-2{
+  	margin-top: 2%;
+  }
+
+  .mt-5{
+  	margin-top: 5%;
+  }
+
+  ul{
+  	padding: 0%;
+  }
+
+  li{
+  	list-style-type: none;
+  }
+
+  .pagination>li>a:hover ,.pagination>li>a:active{
+  	background-color: #3B4657;
+  	color: #fff;
   }
