@@ -3,6 +3,27 @@
 	padding: 2% 2% 2% 2%;
 	color: white;
 }
+
+.box{
+	display: inline-block;
+	height: 60px;
+	width: 60px;
+	border-radius: 50%;
+	line-height: 30px;
+	color: #fff;
+	margin-top: 100%;
+}
+.fb{
+	background-color:grey;
+	opacity: .5;
+	text-align: center;
+	padding-top: 22%;
+}
+
+.fb:hover{
+	background-color: #fff;
+	color: #5A85D6;
+}
 .list-inline{
 	margin-top: 100%;
 }
