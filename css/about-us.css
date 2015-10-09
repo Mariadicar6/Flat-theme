@@ -18,6 +18,10 @@ a:hover{
 	text-decoration: none;
 }
 
+.about a{
+	color: #fff;
+}
+
 .vertical-centered-text {
   -ms-display: flex;
   display: flex;
@@ -64,4 +68,12 @@ a:hover{
 
     h6{
   	 	color: #888;
+  }
+
+  .mt-2{
+  	margin-top: 2%;
+  }
+
+  .about h6{
+	color: #fff;
   }
