@@ -69,3 +69,11 @@ a:hover{
     h6{
   	 	color: #888;
   }
+
+  .mt-2{
+  	margin-top: 2%;
+  }
+
+  .about h6{
+	color: #fff;
+  }
