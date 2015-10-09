@@ -33,9 +33,9 @@
 .foto{
 	padding:2%;
 }
-.btn{
+/*.btn{
 	background-color:#E94E37;
-}
+}*/
 
 footer{
 	background-color:#162A48;
@@ -48,3 +48,36 @@ footer{
 .footer-nav ul>li>a:hover{
 	background-color: #3B4657;
 }
+
+
+
+
+.cabecera-verde{
+	margin-top: 50px;
+	background-color: #45d469;
+	padding: 3% 0%;
+	color: #fff;
+}
+
+.cabecera-verde a{
+	color: #fff;
+}
+
+.vertical-centered-text {
+  -ms-display: flex;
+  display: flex;
+  /* alineacion vertical */
+  align-items: center;
+  /* alineacion horizontal */
+  justify-content: center; }
+
+    .content{
+  	background-color: #E6E6E6;
+  	padding: 3% 0%;
+  	color: #3b4657;
+  }
+
+    .content .box-white{
+    background-color: #fff;
+  }
+
