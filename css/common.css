@@ -81,3 +81,10 @@ footer{
     background-color: #fff;
   }
 
+
+  li{
+  	list-style-type: none;
+  }
+  a{
+  	color: white;
+  }

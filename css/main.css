@@ -3,6 +3,14 @@
 	padding: 2% 2% 2% 2%;
 	color: white;
 }
+.list-inline{
+	margin-top: 100%;
+}
+.list-inline i{
+border-radius: 100%;
+border:1px solid white;
+padding:40% 69% 35% 46%;
+}
 .our-latest{
 	background-color:#F9F2E9;
 	padding: 4% 4% 4% 4%;
@@ -31,4 +39,7 @@ background-color:#E94E37;
 }
 .media-object{
 	margin-left: 0% !important;
+}
+.btn{
+	background-color:#E94E37;
 }
