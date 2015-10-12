@@ -3,6 +3,9 @@
 	padding: 2% 2% 2% 2%;
 	color: white;
 }
+a:hover{
+		text-decoration: none;
+}
 
 .box{
 	display: inline-block;
@@ -12,12 +15,11 @@
 	line-height: 30px;
 	color: #fff;
 	margin-top: 64%;
+	font-size: 30px;
 }
 .fb{
 	background-color:grey;
 	opacity: .5;
-	text-align: center;
-	padding-top: 22%;
 }
 
 .fb:hover{
@@ -28,18 +30,18 @@
 	margin-top: 100%;
 }
 .list-inline i{
-border-radius: 100%;
-border:1px solid grey;
-padding:50%;
-background-color: grey;
-opacity: .5;
+	border-radius: 100%;
+	border:1px solid grey;
+	padding:50%;
+	background-color: grey;
+	opacity: .5;
 }
 .our-latest{
 	background-color:#F9F2E9;
 	padding: 4% 4% 4% 4%;
 }
 .pagination>li>a{
-background-color:#E94E37;
+	background-color:#E94E37;
 }
 .pagination span{
 	color: white;
@@ -67,3 +69,15 @@ background-color:#E94E37;
 	background-color:#E94E37;
 }
 
+.mt-20{
+	margin-top: 20px;
+}
+
+@media screen and (max-width: 361px) {
+	.carousel-inner > .item > img, .carousel-inner > .item > a > img {
+	    display: block;
+	    height: auto;
+	    max-width: 200%;
+	    line-height: 1;
+	}
+}

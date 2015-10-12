@@ -88,3 +88,31 @@ footer{
   a{
   	color: white;
   }
+
+footer .nav > li{
+    display: inline-block;
+}
+
+.navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
+  color: white;
+  font-weight: 900;
+}
+
+p{
+  font-size: 1em;
+}
+h5{
+  font-size: 1em;
+}
+@media screen and (max-width: 321px) {
+  p{
+    font-size: 0.8em;
+  }
+  h5{
+    font-size: 0.8em;
+  }
+}
+
+.pt-15{
+padding-top: 15px;
+}
