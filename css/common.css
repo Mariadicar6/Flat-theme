@@ -104,12 +104,12 @@ p{
 h5{
   font-size: 1em;
 }
-@media screen and (max-width: 321px) {
+@media screen and (max-width: 361px) {
   p{
-    font-size: 0.8em;
+    font-size: 0.85em;
   }
   h5{
-    font-size: 0.8em;
+    font-size: 0.85em;
   }
 }
 
