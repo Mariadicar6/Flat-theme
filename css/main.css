@@ -81,3 +81,9 @@ a:hover{
 	    line-height: 1;
 	}
 }
+@media (max-width: 368px){
+	.carousel-inner img{
+		padding-top: 16%;
+		width: 100%;
+	}
+}
