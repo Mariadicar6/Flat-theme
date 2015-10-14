@@ -83,7 +83,7 @@ a:hover{
 }
 @media (max-width: 360px){
 	.carousel-inner img{
-		padding-top: 18%;
+		padding-top: 16%;
 		width: 100%;
 	}
 }

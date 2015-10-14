@@ -95,7 +95,7 @@ footer .nav > li{
 
 .navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
   color: white;
-  font-weight: 900;
+  background-color: #162A48;
 }
 
 p{
